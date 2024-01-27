@@ -1,9 +1,0 @@
-step 1: go on cmd and enter this command
-        streamlit\Scripts\activate
-
-step 2: open stockprediction as a visual studio code
-
-
-step 3: now on cmd where u have left enter this command 
-        streamlit run application.py
-         
